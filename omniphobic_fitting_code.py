@@ -1,3 +1,5 @@
+# Written by Omar Laris (Ph.D. candidate at the University of Colorado Boulder)
+
 # Imports for computing, fitting, and plotting
 import numpy as np
 from scipy.optimize import curve_fit
